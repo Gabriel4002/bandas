@@ -65,10 +65,12 @@ img{
     height: 220px;
 }
 div{
-    width: 100%;
+    width: auto;
     height: auto;
     background-color: rgba(0, 0, 0, 0.878);
     border-radius: 10px;
+    margin-left: 40px;
+    margin-right: 60px;
 }
 .d{
     width: 100%;
@@ -78,6 +80,8 @@ div{
     top: 0px;
     left: 0px;
     border-radius: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 .a{
     width:100%;
