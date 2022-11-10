@@ -1,0 +1,96 @@
+body{
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: contain;
+    background-position-x: center;
+    background-attachment: fixed;
+    background-image: url(wall.jpg)
+}
+details{
+    color: white;
+    font-family: bahnschrift SemiBold;
+    margin-top: -10px;
+    margin-left: 3px;
+}
+.m{
+    color: white;
+    font-family: bahnschrift SemiBold;
+    font-size: 15px;
+    margin-left: 90px;
+}
+details:hover{
+    font-size: 17px;
+    color: rgb(255, 0, 0);
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-family: bahnschrift SemiBold;
+    font-size: 27px;
+}
+.img1{
+    width: 180px;
+    height: 210px;
+}
+.img2{
+    width: 250px;
+    height: 210px;
+}
+.img3{
+    width: 210px;
+    height: 250px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    margin-left: 15px;
+    text-indent: 15px;
+    font-family: bahnschrift SemiBold;
+    font-size: large;
+}
+h3{
+    color: white;
+    font-family: bahnschrift SemiBold;
+}
+h4{
+    color: rgb(255, 255, 255);
+    font-family: bahnschrift SemiBold;
+}
+li,ul{
+    text-align: left;
+}
+img{
+    width: 230px;
+    height: 220px;
+}
+div{
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.878);
+    border-radius: 10px;
+}
+.d{
+    width: 100%;
+    height: auto;
+    background-color:rgba(0, 0, 0, 0.747);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    border-radius: 0px;
+}
+.a{
+    width:100%;
+    height: auto;
+    background-color: rgba(255, 255, 255, 0.923);
+    border-radius: 10px;
+}
+nav{
+    display: flex;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
