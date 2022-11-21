@@ -79,6 +79,9 @@ div{
     margin-left: 60px;
     margin-right: 60px;
 }
+.p{
+    margin-left: 60px;
+}
 .d{
     width: 100%;
     height: auto;
@@ -104,7 +107,4 @@ a{
 }
 a:hover{
     color: rgb(255, 0, 0);
-}
-button{
-    margin-left: 60px;
 }
