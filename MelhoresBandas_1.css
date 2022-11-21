@@ -70,14 +70,14 @@ div{
     height: auto;
     background-color: rgba(0, 0, 0, 0.878);
     border-radius: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
 }
 .i{
     width: auto;
     height: auto;
     background-color: rgba(0, 0, 0, 0.878);
     border-radius: 10px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 .d{
     width: 100%;
