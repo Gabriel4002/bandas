@@ -63,13 +63,14 @@ li,ul{
 img{
     width: 230px;
     height: 220px;
+    margin-left: 60px;
 }
 div{
     width: auto;
     height: auto;
     background-color: rgba(0, 0, 0, 0.878);
     border-radius: 10px;
-    margin-left: 40px;
+    margin-left: 60px;
     margin-right: 60px;
 }
 .d{
